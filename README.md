@@ -2,7 +2,7 @@
 {
   "id": "a2596a91-c7de-477a-bfbb-b08867f1aa89",
   "teaches": "printf for constant Strings",
-  "depends_on": [],
+  "depends_on": ["302c98a7-cbea-435c-ada2-bbf7538429a2"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-03-20",
   "keywords": ["learning", "exercises", "education", "practice", "C", "printf"]
